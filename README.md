@@ -2,7 +2,7 @@ dxfwentities
 ============
 
 It runs for only libdxfrw0.5.7 library.
-This code takes up the text file which contains the information about the entities to be drawn and there parameters creates the corresponding dxf files. Point, line, rectangle and circle are implemented.
+This code takes up the text file which contains the information about the entities to be drawn and there parameters creates the corresponding dxf files. Point, line, rectangle, circle, arc and ellipse are implemented.
 
 ---------------------------------------------------
 
